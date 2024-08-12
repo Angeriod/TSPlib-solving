@@ -1,4 +1,4 @@
-# TSP Solving
+# TSPlib Solving
 
 이 프로젝트는 다양한 방법론을 이용하여 TSP(Traveling Salesman Problem) 문제를 해결한 결과를 비교합니다. 
 
